@@ -1,0 +1,12 @@
+body {
+
+  font-size: 20px;
+  line-height: 1.5;
+  background-color: rgb(28, 0, 105);
+  border-color: rgb(241, 127, 21);
+  font-family: "Noto Sans JP", sans-serif;
+}
+ul {
+  line-height: 20%;
+  background-color: cornflowerblue;
+}
