@@ -11,4 +11,15 @@ ul {
  
 img{
   width: 20px;
+  
+}
+header {
+    font-family: "Bangers", system-ui;
+    font-weight: 400;
+    font-style: normal;
+    background-color: aliceblue;
+    text-align: center;
+    padding: 30px;
+    font-size: 45px;
+    
 }
