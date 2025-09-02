@@ -1,19 +1,19 @@
 h1 {
   line-height: 1.5;
-  background-color: rgb(28, 0, 105);
+  background-color: rgb(238, 237, 240);
   border-color: rgb(241, 127, 21);
   font-family: "Noto Sans JP", sans-serif;
 }
 
 ul {
   line-height: 20%;
-  background-color: cornflowerblue;
+  background-color: rgb(255, 255, 255);
 }
 
 .image{
   width: 8%;
   align-items: center;
-  border-color: rgb(0, 0, 0);
+  border-color: rgb(236, 231, 231);
 }
 
 ul {
