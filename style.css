@@ -1,5 +1,5 @@
 h1 {
-  line-height: 3.5;
+  line-height: 2.0;
   background-color: rgb(238, 237, 240);
   border-color: rgb(241, 127, 21);
   font-family: "Noto Sans JP", sans-serif;
@@ -7,16 +7,14 @@ h1 {
 }
 
 ul {
-
   background-color: rgb(255, 255, 255);
+  font-size: 33px;
+
 }
 
 .image{
-  width: 8%;
+  width: 50%;
   align-items: center;
   border-color: rgb(236, 231, 231);
 }
 
-ul {
-  font-size: 33px;
-}
