@@ -10,9 +10,10 @@ ul {
   background-color: cornflowerblue;
 }
 
-img {
+.image{
   width: 20%;
   align-items: center;
+  border-color: rgb(0, 0, 0);
 }
 
 ul {
